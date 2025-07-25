@@ -1,1 +1,162 @@
-
+[
+  {
+    "cardName": "Chase Sapphire Preferred",
+    "issuer": "Chase",
+    "apr": "21.49% - 28.49%",
+    "annualFee": "$95",
+    "signupBonus": "60,000 points after $4,000 spend",
+    "cashbackRate": "2x on travel & dining, 1x everything else",
+    "creditLimit": "$5,000+",
+    "applyUrl": "https://creditcards.chase.com/rewards-credit-cards/sapphire/preferred",
+    "highlights": [
+      "25% more value when you redeem for airfare, hotels, car rentals and cruises through Chase Ultimate Rewards",
+      "No foreign transaction fees",
+      "Trip cancellation/interruption insurance",
+      "Primary rental car damage waiver"
+    ]
+  },
+  {
+    "cardName": "Capital One Venture X Rewards",
+    "issuer": "Capital One",
+    "apr": "19.49% - 29.49%",
+    "annualFee": "$395",
+    "signupBonus": "75,000 miles after $4,000 spend",
+    "cashbackRate": "2x miles on all purchases, 5x on hotels and rental cars booked through Capital One Travel, 10x on thousands of hotels through Booking.com",
+    "creditLimit": "$10,000+",
+    "applyUrl": "https://www.capitalone.com/credit-cards/venture-x/",
+    "highlights": [
+      "$300 annual travel credit",
+      "Priority Pass Select lounge membership",
+      "Global Entry or TSA PreCheck credit",
+      "Hertz President's Circle elite status"
+    ]
+  },
+  {
+    "cardName": "Citi Double Cash Card",
+    "issuer": "Citi",
+    "apr": "18.49% - 28.49%",
+    "annualFee": "$0",
+    "signupBonus": "$200 cash back after $1,500 spend in first 6 months",
+    "cashbackRate": "2% on all purchases (1% when you buy, 1% when you pay)",
+    "creditLimit": "$2,000+",
+    "applyUrl": "https://www.citi.com/credit-cards/citi-double-cash-credit-card",
+    "highlights": [
+      "No annual fee",
+      "No category restrictions",
+      "0% intro APR for 18 months on balance transfers",
+      "Citi Price Rewind protection"
+    ]
+  },
+  {
+    "cardName": "American Express Gold Card",
+    "issuer": "American Express",
+    "apr": "19.49% - 28.49%",
+    "annualFee": "$250",
+    "signupBonus": "60,000 points after $4,000 spend in first 6 months",
+    "cashbackRate": "4x points at restaurants worldwide, 4x points at U.S. supermarkets (up to $25,000/year), 3x points on flights booked directly with airlines, 1x on other purchases",
+    "creditLimit": "No preset spending limit",
+    "applyUrl": "https://www.americanexpress.com/us/credit-cards/card/gold-card/",
+    "highlights": [
+      "$120 Uber Cash annually",
+      "$120 dining credit at Grubhub, The Cheesecake Factory, Goldbelly, Wine.com, Milk Bar and select Shake Shack locations",
+      "No foreign transaction fees",
+      "Purchase protection and extended warranty"
+    ]
+  },
+  {
+    "cardName": "Discover it Cash Back",
+    "issuer": "Discover",
+    "apr": "15.49% - 26.49%",
+    "annualFee": "$0",
+    "signupBonus": "Cashback Match - Discover matches all the cash back you earn in your first year",
+    "cashbackRate": "5% cash back on rotating quarterly categories (up to $1,500 per quarter), 1% on all other purchases",
+    "creditLimit": "$1,000+",
+    "applyUrl": "https://www.discover.com/credit-cards/cash-back/it-card/",
+    "highlights": [
+      "No annual fee",
+      "0% intro APR for 15 months on purchases and balance transfers",
+      "Free FICO Credit Score",
+      "No penalty APR"
+    ]
+  },
+  {
+    "cardName": "Wells Fargo Active Cash Card",
+    "issuer": "Wells Fargo",
+    "apr": "17.49% - 29.49%",
+    "annualFee": "$0",
+    "signupBonus": "$200 cash rewards bonus after spending $1,000 in purchases in the first 3 months",
+    "cashbackRate": "2% cash rewards on purchases",
+    "creditLimit": "$1,000+",
+    "applyUrl": "https://www.wellsfargo.com/credit-cards/active-cash/",
+    "highlights": [
+      "No annual fee",
+      "0% intro APR for 15 months on purchases and qualifying balance transfers",
+      "No categories to track or activate",
+      "Cell phone protection"
+    ]
+  },
+  {
+    "cardName": "Bank of America Travel Rewards",
+    "issuer": "Bank of America",
+    "apr": "16.49% - 26.49%",
+    "annualFee": "$0",
+    "signupBonus": "25,000 online bonus points after making at least $1,000 in purchases in the first 90 days",
+    "cashbackRate": "1.5 points per $1 spent on all purchases",
+    "creditLimit": "$1,000+",
+    "applyUrl": "https://www.bankofamerica.com/credit-cards/products/travel-rewards-credit-card/",
+    "highlights": [
+      "No annual fee",
+      "No foreign transaction fees",
+      "Points don't expire",
+      "0% intro APR for 15 billing cycles on purchases and balance transfers"
+    ]
+  },
+  {
+    "cardName": "Chase Freedom Unlimited",
+    "issuer": "Chase",
+    "apr": "17.49% - 26.49%",
+    "annualFee": "$0",
+    "signupBonus": "$200 bonus after spending $500 on purchases in first 3 months from account opening",
+    "cashbackRate": "1.5% cash back on all purchases, 5% on travel purchased through Chase Ultimate Rewards, 3% on drugstore purchases and dining at restaurants",
+    "creditLimit": "$1,000+",
+    "applyUrl": "https://creditcards.chase.com/cash-back-credit-cards/freedom/unlimited",
+    "highlights": [
+      "No annual fee",
+      "0% intro APR for 15 months on purchases and balance transfers",
+      "No category limits or restrictions",
+      "Points can be combined with Chase Sapphire cards for travel redemptions"
+    ]
+  },
+  {
+    "cardName": "Capital One SavorOne Cash Rewards",
+    "issuer": "Capital One",
+    "apr": "19.49% - 29.49%",
+    "annualFee": "$0",
+    "signupBonus": "$200 once you spend $500 on purchases within 3 months from account opening",
+    "cashbackRate": "3% cash back on dining, entertainment, popular streaming services and at grocery stores, 1% on all other purchases",
+    "creditLimit": "$1,000+",
+    "applyUrl": "https://www.capitalone.com/credit-cards/savorone-dining-rewards/",
+    "highlights": [
+      "No annual fee",
+      "No foreign transaction fees",
+      "0% intro APR on purchases for 15 months",
+      "No expiration on rewards"
+    ]
+  },
+  {
+    "cardName": "Blue Cash Preferred Card from American Express",
+    "issuer": "American Express",
+    "apr": "16.49% - 27.49%",
+    "annualFee": "$95",
+    "signupBonus": "$300 statement credit after you spend $3,000 in purchases on your new Card in your first 6 months",
+    "cashbackRate": "6% cash back at U.S. supermarkets (up to $6,000 per year), 6% cash back on select U.S. streaming subscriptions, 3% cash back at U.S. gas stations, 1% cash back on other purchases",
+    "creditLimit": "No preset spending limit",
+    "applyUrl": "https://www.americanexpress.com/us/credit-cards/card/blue-cash-preferred/",
+    "highlights": [
+      "0% intro APR on purchases and balance transfers for 12 months",
+      "No foreign transaction fees on international purchases",
+      "Purchase protection and extended warranty",
+      "American Express customer service"
+    ]
+  }
+]
